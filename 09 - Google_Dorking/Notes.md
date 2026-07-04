@@ -1,7 +1,7 @@
-| Operator | Purpose | Example |
-|----------|---------|---------|
-| `site:` | Restrict search results to a specific website or domain. | `iPhone site:amazon.com` |
-| `filetype:` | Search for a specific file format. | `site:edu filetype:pdf "lecture notes"` |
-| `inurl:` | Search for pages with a keyword in the URL. | `site:nytimes.com inurl:blog` |
-| `intitle:` | Search for pages with a keyword in the page title. | `site:bbc.com intitle:climate` |
-| `intext:` | Search for pages containing a keyword in the page content. | `site:allrecipes.com intext:"chocolate cake"` |
+| Operator | Mục đích | Ví dụ |
+|----------|----------|--------|
+| `site:` | Giới hạn kết quả tìm kiếm trong một website hoặc tên miền cụ thể. | `iPhone site:amazon.com` |
+| `filetype:` | Tìm kiếm các tệp có định dạng cụ thể. | `site:edu filetype:pdf "lecture notes"` |
+| `inurl:` | Tìm các trang có từ khóa xuất hiện trong URL. | `site:nytimes.com inurl:blog` |
+| `intitle:` | Tìm các trang có từ khóa xuất hiện trong tiêu đề. | `site:bbc.com intitle:climate` |
+| `intext:` | Tìm các trang có từ khóa xuất hiện trong nội dung. | `site:allrecipes.com intext:"chocolate cake"` |
