@@ -1,16 +1,4 @@
-#!/bin/bash
-# ============================================================
-# Script: create-portfolio-structure.sh
-# Mục đích: Tạo toàn bộ cấu trúc thư mục CYBERSECURITY-PORTFOLIO
-# Cách dùng:
-#   1) Đặt file này vào trong thư mục repo đã clone về
-#   2) chmod +x create-portfolio-structure.sh
-#   3) ./create-portfolio-structure.sh
-# ============================================================
-
 set -e
-
-echo "Đang tạo cấu trúc thư mục..."
 
 # ---------- 01: Professional Profile ----------
 mkdir -p "01-Professional-Profile"
